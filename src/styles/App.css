@@ -1,0 +1,11 @@
+* {
+  background-color: azure;
+}
+
+#root {
+  height: 500px;
+  min-width: 310px;
+  max-width: 800px;
+  margin: 0 auto;
+}
+/*# sourceMappingURL=App.css.map */

@@ -1,0 +1,14 @@
+[
+    { "name": "Drenthe", "value": 53 },
+    { "name": "Limburg", "value": 69 },
+    { "name": "Utrecht", "value": 70 },
+    { "name": "Zeeland", "value": 57 },
+    { "name": "Flevoland", "value": 60 },
+    { "name": "Friesland", "value": 41 },
+    { "name": "Groningen", "value": 48 },
+    { "name": "Gelderland", "value": 64 },
+    { "name": "Overijssel", "value": 52 },
+    { "name": "Zuid-Holland", "value": 69 },
+    { "name": "Noord-Brabant", "value": 60 },
+    { "name": "Noord-Holland", "value": 61 }
+]
